@@ -5,7 +5,7 @@ This cookbooks downloads/installs the Amazon Web Services (AWS) .Net tools kit o
 
 Requirements
 ------------
-This cookbook supports Chef 11.14.2
+This cookbook supports Chef 11.14.2 or newer
 
 
 #### Platforms
@@ -41,9 +41,9 @@ Contributing
 
 License and Authors
 -------------------
-* Authors: Yeung Siu (yeung.siu@citrix.com)
+* Authors: Yeung Siu (ysiu2000@gmail.com)
 
-Copyright:: 2015 Citrix Systems, Inc.
+Copyright:: 2016
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

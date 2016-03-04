@@ -1,6 +1,6 @@
 name             'AWS_ms_dotnet'
-maintainer       's'
-maintainer_email 'yeung.siu@gmail.com'
+maintainer       'Yeung Siu'
+maintainer_email 'ysiu2000@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures Amazon Web Services (AWS) Tools and SDK for .Net'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
